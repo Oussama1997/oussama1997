@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
+  <a href="mailto:yourname@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail"/>
+  </a>
+  <a href="mailto:yourname@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="25" alt="Outlook"/>
+  </a>
   <a href="https://www.linkedin.com/in/oussamabenmimouna/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -46,26 +52,21 @@ Here are some ideas to get you started:
 ###
 
 <p align="left">
-  I'm Oussama Khalifa Ben Mimouna from Tunisia, I'm Software enginer - Fullstack Java / Angular
+  I'm Oussama Khalifa Ben Mimouna from Tunisia, a Software Engineer specializing in Fullstack Java and Angular development.
   <br>
   <br>
-  - 🔭 I'm currently working on exciting projects
-  <br>
-  - 📚 I'm currently learning AWS Cloud
-  <br>
-  - 🌱 I'm so interested in AI
-  <br>
-  - 💬 Ask me about Java & Angular 
-  <br>
-  - 😄 In my free time I play videos games
-  <br>
+  - 🔭 Currently working on exciting projects  
+  - 📚 Learning AWS Cloud  
+  - 🌱 Passionate about AI  
+  - 💬 Ask me about Java and Angular  
+  - 😄 In my free time, I enjoy playing video games  
   - ⚡ Fun fact: Code never lies, comments sometimes do 📝
 </p>
 
 
 ###
 
-<h3 align="left">🛠 Language and Framework</h3>
+<h3 align="left">🛠 Languages and Frameworks</h3>
 
 ###
 
@@ -157,8 +158,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" height="40" alt="subversion logo"  />
   <img width="12" />
