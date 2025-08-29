@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 **Oussama1997/oussama1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -53,7 +52,7 @@ Here are some ideas to get you started:
 ###
 
 <p align="left">
-  I'm Oussama Khalifa Ben Mimouna from Tunisia, I'am Software enginer - Fullstack Java / Angular
+  I'm Oussama Khalifa Ben Mimouna from Tunisia, I'm Software enginer - Fullstack Java / Angular
   <br>
   <br>
   - 🔭 I'm currently working on exciting projects
