@@ -55,11 +55,16 @@ Here are some ideas to get you started:
   I'm Oussama Khalifa Ben Mimouna from Tunisia, a Software Engineer specializing in Fullstack Java and Angular development.
   <br>
   <br>
-  - 🔭 Currently working on exciting projects  
-  - 📚 Learning AWS Cloud  
-  - 🌱 Passionate about AI  
-  - 💬 Ask me about Java and Angular  
-  - 😄 In my free time, I enjoy playing video games  
+  - 🔭 Currently working on exciting projects
+  <br>
+  - 📚 Learning AWS Cloud
+  <br>
+  - 🌱 Passionate about AI
+  <br>
+  - 💬 Ask me about Java and Angular
+  <br>
+  - 😄 In my free time, I enjoy playing video games
+  <br>
   - ⚡ Fun fact: Code never lies, comments sometimes do 📝
 </p>
 
