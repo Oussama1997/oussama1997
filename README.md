@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-div align="center">
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -42,6 +42,12 @@ div align="center">
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Oussama1997.Oussama1997&"  />
+</div>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -58,12 +64,12 @@ div align="center">
   <br>
   - 💬 Ask me about Java & Angular 
   <br>
-  - ⚡ In my free time I play videos games
+  - 😄 In my free time I play videos games
+  <br>
+  - ⚡ Fun fact: Code never lies, comments sometimes do 📝
 </p>
 
 
-
-⚡ Fun fact: Code never lies, comments sometimes do 📝
 ###
 
 <h3 align="left">🛠 Language and Framework</h3>
@@ -177,5 +183,16 @@ div align="center">
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<img src="https://raw.githubusercontent.com/Oussama1997/Oussama1997/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oussama1997&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oussama1997&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
